@@ -39,7 +39,7 @@ document.oncontextmenu=new Function("alert(nothingz);return false")
 </script>
 
 
-    <audio src="https://www.naijafinix.com.ng/wp-content/uploads/2021/05/Powfu-Death-Bed-via-Naijafinix.com_.mp3" autoplay="true" id="lagu" loop=""></audio>
+    <audio src="https://man3jambi.com/sipen/upload/arsip/y2meta.com%20-%20Lindsey%20Stirling%20-%20Carol%20of%20the%20Bells%20(Official%20Music%20Video)%20(128%20kbps).mp3" autoplay="true" id="lagu" loop=""></audio>
     <script type="text/javascript">
         alert("Hello")
         alert("F1KR7 In Here.!")
