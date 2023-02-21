@@ -1,76 +1,60 @@
-
-<html>
-	<head>
-		<meta name="robots" content="index, follow">
-		<title>Hacked By F1KR7 | WDI BL4CKH4T CREW</title>
-        <meta name="description" content="WDI BL4CKH4T is here...">
-		<meta name="viewport" content="width=device-width, initial-scale=0.60, user-scalable=no">
-		<meta name="keywords" content="Hacked by F1KR7, Hacked, security">
-		<link rel="icon" href="https://g.top4top.io/p_2550ektsz1.png" type="image/x-icon">
-	</head>
-<body>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed');
-body {
-	font-family:"Ubuntu Condensed";
-	color:#fff;
-	background:#000;
-}
-b {
-	color:red;
+<html lang="en"><head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="og/title" content="Hacked? Pwnd? Touched? All That's Trickery Lolz :v">
+    <meta name="keyboards" content="WhiteCrew7">
+    <meta name="author" content="WhiteCrew7">
+    <meta name="description" content="PAY $5 TO UNLOCK YOUR SITE!">
+    <meta charset="utf-8">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Iceland">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>.:: Hacked by ./F1KR7</title>
+     <style type="text/css">* {cursor: url(https://cur.cursors-4u.net/symbols/sym-1/sym46.cur), auto !important;}</style></head><body oncontextmenu="return false;" onkeydown="return false;" onmousedown="return false;" onclick="document.getElementById('lagu').play();fs()" id="body" onload="typeWriter()" style=""><a href="https://www.cursors-4u.com/cursor/2005/05/04/sym46.html"><img src="https://cur.cursors-4u.net/cursor.png" border="0" alt="The Infamous Middle Finger" style="position:absolute; top: 0px; right: 0px;"></a>
+    <style type="text/css">
+        html {
+    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2f7c9d8-a913-4273-847f-705be41395df/da6cgrv-8a5163be-c552-4c13-af14-c3cce6029e63.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EyZjdjOWQ4LWE5MTMtNDI3My04NDdmLTcwNWJlNDEzOTVkZlwvZGE2Y2dydi04YTUxNjNiZS1jNTUyLTRjMTMtYWYxNC1jM2NjZTYwMjllNjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p6VJ8-viWxDIf1frWa_HpWeJ9gi8tEIfGfTtUD2Pf5w) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 </style>
-<table width="100%" height="100%">
-	<td align="center">
-		<img src="https://g.top4top.io/p_2550ektsz1.png" width="175px"><br><i>HACKED BY <b>F1KR7</b> - WDI BL4CKH4T</p>
-		TAK PERLU MENAMPAKAN DIRI UNTUK DI SEGANI,
-TAK PERLU CARI MUKA UNTUK DI KAGUMI,
-CUKUP DIAM DAN LAKUKAN MISI
-<p>If you want this site back to normal? Pay 10 Dollars to:
-<br><a href="https://www.paypal.me/FIKRIBugXploit" target="_blank" rel="noopener noreferrer"></a><b>$</b> Greetz <b>$</b><br>
-		 WDI BL4CKH4T - 1NTR0V3RT CYBERTEAM - Computer Science Crew
-	</td>
-<center><br>
-  <button class="btn btn-primary" onclick="toggleMusic()" id="btn-playback" data-play="false">
-    <i class="fa fa-play"></i>
-    <span id="btn-text">HERE!!!</span>
-  </button>
-	<meta charset="UTF-8">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.3/css/bootstrap.min.css" integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g==" crossorigin="anonymous" />
-  <audio id="audio" src="https://www.naijafinix.com.ng/wp-content/uploads/2021/05/Powfu-Death-Bed-via-Naijafinix.com_.mp3" />
-  <script>
-    const myAudio = document.getElementById("audio");
-    const btn = document.getElementById("btn-playback");
-    const btnIcon = document.querySelector("#btn-playback > i");
-    const btnText = document.getElementById("btn-text");
-    const toggleMusic = () => {      
-      const dataPlay = btn.getAttribute('data-play');         
-      if(dataPlay === 'false') {
-        btn.setAttribute('data-play', 'true');
-        myAudio.play();
-        btnIcon.classList.remove("fa-play");
-        btnIcon.classList.add("fa-pause");
-        btnText.innerText = "PAUSE";
-      } else {
-        btn.setAttribute('data-play', 'false');
-        myAudio.pause();
-        btnIcon.classList.remove("fa-pause");
-        btnIcon.classList.add("fa-play");
-        btnText.innerText = "PLAY";
-      }
-    };
-    
-    myAudio.onpause = () => {
-      btn.setAttribute('data-play', 'false');
-        myAudio.pause();
-        btnIcon.classList.remove("fa-pause");
-        btnIcon.classList.add("fa-play");
-        btnText.innerText = "PLAY";
-    };
-  </script>
-  
-  
-</body>
-</center>
-</html>
+<script type="text/javascript">
+
+window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+
+</script>
+<script type="text/javascript">
+
+document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+
+</script>
+<script>
+var nothingz="Dilarang Copyright...Terima Kasih...";
+///////////////////////////////////
+function clickIE4(){if (event.button==2){alert(nothingz);return false;}}
+function clickNS4(e){if (document.layers||document.getElementById&&!document.all){if (e.which==2||e.which==3){alert(nothingz);return false;}}}
+if (document.layers){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS4;}
+else if (document.all&&!document.getElementById){document.onmousedown=clickIE4;}
+document.oncontextmenu=new Function("alert(nothingz);return false")
+</script>
+
+
+    <audio src="https://www.naijafinix.com.ng/wp-content/uploads/2021/05/Powfu-Death-Bed-via-Naijafinix.com_.mp3" autoplay="true" id="lagu" loop=""></audio>
+    <script type="text/javascript">
+        alert("Hello")
+        alert("F1KR7 In Here.!")
+    </script>
+    <div align="center">
+        <br>
+        <font face="Iceland" size="7" color="#FFFFFF">Hacked By</font> <font face="Iceland" size="7" color="#FFFFFF">./F1KR7</font><font face="Iceland" size="7" color="#FF0000">Crew7</font>
+  <div align="center">
+    <font face="Iceland" size="6" color="#FF0000">[</font> <font face="Iceland" size="6" color="#FFFFFF">Maaf Situs Website Yang Anda Tuju Telah Diretas.! <font face="Iceland" size="6" color="#FF0000">]</font><br>
+  <font face="Iceland" size="6" color="#FF0000">[</font> <font face="Iceland" size="6" color="#FFFFFF">Greetz: WDI BLACKHAT - 1NTROV3RT CYBERTEAM - Computer Science Crew</font> <font face="Iceland" size="6" color="#FF0000">]</font><br>
+  <a style="text-decoration:none;" target="_blank" href="https://wa.me/6287851678469" rel="noopener noreferrer">
+  <font face="Iceland" size="6" color="red"> [ My WhatsApp ]</font></a></font>
+</div>
+
+
+</div>
+
+</body></html>
